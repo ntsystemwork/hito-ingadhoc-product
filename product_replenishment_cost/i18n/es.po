@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-10 14:56+0000\n"
+"POT-Creation-Date: 2024-07-02 18:42+0000\n"
 "PO-Revision-Date: 2023-01-13 14:04+0000\n"
 "Last-Translator: Juan José Scarafía <scarafia.juanjose@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://app.transifex.com/adhoc/teams/46451/es/)\n"
@@ -514,6 +514,11 @@ msgstr "Sin Regla de Rep."
 #: model_terms:ir.ui.view,arch_db:product_replenishment_cost.view_update_from_replenishment_cost_wizard_form
 msgid "or"
 msgstr "o"
+
+#. module: product_replenishment_cost
+#: model_terms:ir.ui.view,arch_db:product_replenishment_cost.product_template_form_view
+msgid "por"
+msgstr ""
 
 #. module: product_replenishment_cost
 #: model:ir.model,name:product_replenishment_cost.model_product_replenishment_cost_rule
