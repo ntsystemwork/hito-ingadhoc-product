@@ -3,15 +3,15 @@
 # 	* product_attribute_template
 # 
 # Translators:
-# Juan José Scarafía <scarafia.juanjose@gmail.com>, 2023
+# Juan José Scarafía <scarafia.juanjose@gmail.com>, 2024
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-18 23:41+0000\n"
+"POT-Creation-Date: 2024-10-29 05:00+0000\n"
 "PO-Revision-Date: 2023-10-19 13:10+0000\n"
-"Last-Translator: Juan José Scarafía <scarafia.juanjose@gmail.com>, 2023\n"
+"Last-Translator: Juan José Scarafía <scarafia.juanjose@gmail.com>, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/adhoc/teams/46451/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -125,7 +125,7 @@ msgstr "Nombre de Producto"
 #. module: product_attribute_template
 #: model:ir.model,name:product_attribute_template.model_product_template_attribute_line
 msgid "Product Template Attribute Line"
-msgstr "Linea de atributo de la plantilla de producto"
+msgstr "Línea de atributo de la plantilla de producto"
 
 #. module: product_attribute_template
 #: model:ir.model.fields,field_description:product_attribute_template.field_product_attribute_template__product_tmpl_ids

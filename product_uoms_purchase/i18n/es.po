@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-11 15:04+0000\n"
+"POT-Creation-Date: 2024-10-29 04:55+0000\n"
 "PO-Revision-Date: 2023-01-13 14:04+0000\n"
 "Last-Translator: Juan José Scarafía <scarafia.juanjose@gmail.com>, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/adhoc/teams/46451/es/)\n"
@@ -67,12 +67,12 @@ msgstr "Línea de pedido de compra"
 #: model:ir.model.fields,field_description:product_uoms_purchase.field_product_product__uom_po_id
 #: model:ir.model.fields,field_description:product_uoms_purchase.field_product_template__uom_po_id
 msgid "Purchase UoM"
-msgstr "UoM de compra"
+msgstr "UdM de compra"
 
 #. module: product_uoms_purchase
 #: model:ir.model,name:product_uoms_purchase.model_stock_rule
 msgid "Stock Rule"
-msgstr "Regla de Inventario"
+msgstr "Regla de inventario"
 
 #. module: product_uoms_purchase
 #: model:ir.model.fields,field_description:product_uoms_purchase.field_purchase_order_line__uom_unit_ids
