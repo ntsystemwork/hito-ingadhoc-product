@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-03 20:24+0000\n"
+"POT-Creation-Date: 2024-11-21 20:07+0000\n"
 "PO-Revision-Date: 2024-07-16 15:13+0000\n"
 "Last-Translator: Juan José Scarafía <scarafia.juanjose@gmail.com>, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/adhoc/teams/46451/es/)\n"
@@ -30,16 +30,6 @@ msgid ""
 msgstr ""
 "La unidad de medida %s no es válida para la compra, por favor cambia la "
 "línea de producto %s con la unidad de medida correcta para continuar"
-
-#. module: product_uoms_purchase
-#: model:ir.model.fields,help:product_uoms_purchase.field_product_product__uom_po_id
-#: model:ir.model.fields,help:product_uoms_purchase.field_product_template__uom_po_id
-msgid ""
-"Default unit of measure used for purchase orders. It must be in the same "
-"category as the default unit of measure."
-msgstr ""
-"Unidad de medida por defecto utilizada para los pedidos de compra. Debe "
-"estar en la misma categoría que la unidad de medida por defecto."
 
 #. module: product_uoms_purchase
 #: model:ir.model,name:product_uoms_purchase.model_product_template
@@ -65,12 +55,6 @@ msgstr "Compra Ok"
 #: model:ir.model,name:product_uoms_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
 msgstr "Línea de pedido de compra"
-
-#. module: product_uoms_purchase
-#: model:ir.model.fields,field_description:product_uoms_purchase.field_product_product__uom_po_id
-#: model:ir.model.fields,field_description:product_uoms_purchase.field_product_template__uom_po_id
-msgid "Purchase UoM"
-msgstr "UdM de compra"
 
 #. module: product_uoms_purchase
 #: model:ir.model,name:product_uoms_purchase.model_stock_rule
